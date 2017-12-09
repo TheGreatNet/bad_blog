@@ -1,0 +1,9 @@
+# IDE/Editor
+.vscode/
+.idea/
+
+# temp files
+db.sqlite3
+
+# Python
+**/__pycache__/
